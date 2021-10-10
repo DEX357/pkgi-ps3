@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: pkgi.c:82
-msgid "Installing"
+msgid "Instalowanie"
 msgstr ""
 
 #: pkgi.c:82
